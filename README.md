@@ -1,2 +1,2 @@
 # FileCompressionTool
-A tool for compressing and decompressing using RLE
+A tool in C for compressing and decompressing using RLE
