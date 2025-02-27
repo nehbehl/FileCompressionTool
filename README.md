@@ -9,5 +9,5 @@ A tool in C for compressing and decompressing using RLE
   
   `./fileCompressor -c test.txt` for compression
   
-  `/fileCompressor -d test.rle` for decompression
+  `./fileCompressor -d test.rle` for decompression
 
