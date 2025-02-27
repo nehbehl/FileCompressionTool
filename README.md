@@ -8,5 +8,6 @@ A tool in C for compressing and decompressing using RLE
 * Execute the generated fileCompressor.out
   
   `./fileCompressor -c test.txt` for compression
+  
   `/fileCompressor -d test.rle` for decompression
 
